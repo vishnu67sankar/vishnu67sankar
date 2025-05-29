@@ -1,5 +1,5 @@
 # I am Vishnu...
-An aerospace turned computational science engineer, an IIT-Bombay & Georgia Tech Alum. I usually work at the intersection of machine learning and aerospace engineering. I have developed<br>- deep learning surrogates for engineering simulations<br>- and deployed design optimization frameworks in the industry<br>- predictive maintenance algorithm for structural health monitoring of aircrafts
+An aerospace turned computational science engineer, an IIT-Bombay & Georgia Tech Alum. I usually work at the intersection of machine learning and aerospace engineering. I have developed<br>- deep learning surrogates for engineering simulations<br>- and deployed design optimization frameworks in the aviation and off-shore wind turbine industries<br>- predictive maintenance algorithm for structural health monitoring of aircrafts
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishnu67sankar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnu67sankar@gmail.com) 
